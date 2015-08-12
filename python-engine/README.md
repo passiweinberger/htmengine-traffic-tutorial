@@ -69,7 +69,7 @@ In `python-engine/conf/model-checkpoint.conf`, update the `storage.root` value t
 
 ## 8. Start services with supervisor
 
-Thsi time, you must be in the `htmengine-traffic-tutorial/python-engine` directory:
+This time, you must be in the `htmengine-traffic-tutorial/python-engine` directory:
 
 ```
 cd python-engine
